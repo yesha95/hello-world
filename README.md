@@ -2,9 +2,6 @@
 my first repository
 <html>
   <head>
-    <title>
-      Hiiiii
-    </title>
   </head>
   <body>
     <p>
