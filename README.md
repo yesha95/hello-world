@@ -6,10 +6,7 @@ my first repository
   <body>
     <p>
       <form>
-        <label>
-          textbox
-        </label>
-        <input type="text"/>
+          textbox<input type="text" name="txt">
     </form>
     </p>
   </body>
